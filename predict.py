@@ -1,7 +1,7 @@
 """Fill this in. That's the whole interface.
 
 Usage:
-    python predict.py some_image.jpg
+    python predict.py some_image.jpg 
 Prints ONE number from 0 to 1:
     0 = real photo,  1 = photo of a screen (recapture / fraud)
 """
